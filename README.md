@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naila Hayat</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" widht="400" alt="coding "https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+<img src="https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966" align="right" widht="400" alt="coding >
 
 - 🔭 I’m currently working on **python**
 
